@@ -2,7 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 import CartBtn from '../Buttons/CartBtn'
 import Login from '../Buttons/Login'
-import SignUp from '../Buttons/signUp'
+import SignUp from '../Buttons/SignUp'
 
 const Header = () => {
   return (
